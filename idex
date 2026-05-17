@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Hub | Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">FOOTBALL HUB</div>
+        <nav>
+            <a href="index.html" class="active">Home</a>
+            <a href="news.html">News</a>
+            <a href="fixtures.html">Fixtures</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="hero">
+            <h1>Welcome to Football Hub</h1>
+            <p>Latest news, fixtures, and updates for Premier League fans.</p>
+        </section>
+
+        <section class="cards">
+            <div class="card">
+                <h3>Latest News</h3>
+                <p>Match reports, transfer rumours, and exclusive stories.</p>
+            </div>
+            <div class="card">
+                <h3>Upcoming Matches</h3>
+                <p>Full fixture list and match reminders.</p>
+            </div>
+            <div class="card">
+                <h3>Contact Us</h3>
+                <p>Send feedback or ask questions directly.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Football Hub | IY4103 Web Dev Project</p>
+    </footer>
+</body>
+</html>
